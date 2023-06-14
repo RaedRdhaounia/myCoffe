@@ -1,8 +1,10 @@
 {
-  "name": "berry-free-material-react-cra",
-  "version": "3.3.2",
+  "name": "coffee",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://berrydashboard.io/free",
+  "homepage": "https://coffee-avkv.onrender.com/",
+  "author": "raed rdhaounia",
+  "description": "management of coffee-type businesses to track stock, productivity, sales, salaries, ... (powerd by Berry)",
   "dependencies": {
     "@emotion/cache": "^11.9.3",
     "@emotion/react": "^11.9.3",
