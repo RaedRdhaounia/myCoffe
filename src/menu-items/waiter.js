@@ -19,26 +19,26 @@ const waiter = {
   type: 'group',
   children: [
     {
-      id: 'invoice',
+      id: 'waiter-invoice',
       title: 'Invoice',
       type: 'item',
-      url: '/waiter/util-typography',
+      url: '/waiter/invoice',
       icon: icons.IconBrandProducthunt,
       breadcrumbs: false
     },
     {
-      id: 'calendar',
+      id: 'waiter-calendar',
       title: 'calendar',
       type: 'item',
-      url: '/waiter/util-typography',
+      url: '/waiter/calendar',
       icon: icons.IconCalendar,
       breadcrumbs: false
     },
     {
-      id: 'recette',
+      id: 'waiter-recette',
       title: 'recette',
       type: 'item',
-      url: '/waiter/util-typography',
+      url: '/waiter/recette',
       icon: icons.IconFileInvoice,
       breadcrumbs: false
     }
